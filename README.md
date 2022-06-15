@@ -1,4 +1,11 @@
-yarn dev
+yarn dev;
+yarn add next;
+instalando typescript e node:;
+yarn add typescript @types/react @types/node -D;
+yarn add sass; 
 
-instalando typescript e node:
-yarn add typescript @types/node -D
+
+Tecnologias
+-typescript
+-css modules
+-sass
